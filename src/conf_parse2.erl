@@ -1,4 +1,4 @@
--module(conf_parse).
+-module(conf_parse2).
 -export([parse/1,file/1]).
 -define(p_anything,true).
 -define(p_charclass,true).
